@@ -1,0 +1,42 @@
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Env files
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Backend
+smartcart-backend/target/
+smartcart-backend/*.log
+
+# IDE FILES
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+# GLOBAL ENV FILES
+.env
+*.env
+
+# TEMP FILES
+*.tmp
+*.swp

@@ -1,10 +1,10 @@
-package com.divyamsi.smartcart_backend;
+package com.divyamsi.smart_cart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmartcartBackendApplicationTests {
+class SmartCartApplicationTests {
 
 	@Test
 	void contextLoads() {

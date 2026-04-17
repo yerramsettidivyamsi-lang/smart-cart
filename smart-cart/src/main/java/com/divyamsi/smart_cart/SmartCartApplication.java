@@ -1,13 +1,13 @@
-package com.divyamsi.smartcart_backend;
+package com.divyamsi.smart_cart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartcartBackendApplication {
+public class SmartCartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartcartBackendApplication.class, args);
+		SpringApplication.run(SmartCartApplication.class, args);
 	}
 
 }
